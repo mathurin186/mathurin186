@@ -10,8 +10,7 @@ Most of my work on GitHub is public so that you can see what I'm capable of. Tha
 ### Things that I've acomplished 
 - [x] Pass AWS Solutions Architect Associate
 - [x] Pass AWS SysOps Administrator
-- [x] Start a tech blog on my DevOps journey
-- [x] Kubernetes Certified Administrator (Soon)
+- [x] Pass Kubernetes Certified Administrator
 
 ----------------
 

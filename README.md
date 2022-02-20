@@ -11,7 +11,7 @@ Most of my work on GitHub is public so that you can see what I'm capable of. Tha
 - [x] Pass AWS Solutions Architect Associate
 - [x] Pass AWS SysOps Administrator
 - [x] Start a tech blog on my DevOps journey
-- [ ] Kubernetes Certified Administrator (Soon)
+- [x] Kubernetes Certified Administrator (Soon)
 
 ----------------
 

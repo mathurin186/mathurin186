@@ -24,7 +24,7 @@ Most of my work on GitHub is public so that you can see what I'm capable of. Tha
 
 ----------------
 
-🔭 I’m currently working on CI/CD pipelines with Drone and Kubernetes
+🔭 I’m currently working on custom hacks with my company Sysdig.
 
 <!-- **mathurin186/mathurin186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -12,6 +12,7 @@ Most of my work on GitHub is public so that you can see what I'm capable of. Tha
 - [x] Pass AWS SysOps Administrator
 - [x] Pass Kubernetes Certified Administrator
 - [x] Pass Hashicorp Terraform Associate
+- [x] Pass Slack Certified Developer 
 
 ----------------
 

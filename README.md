@@ -2,7 +2,7 @@
 
 ----------------
 
-My name is Mathurin Kasten and I'm a previous Cloud/DevOps Engineer. I'm located in the San Francisco Bay Area in sunny California, currently working as an Enterprise Sales Engineer for Sysdig. You can add me on <a href="https://www.linkedin.com/in/mathurinkasten/">LinkedIn.</a>
+I'm a previous Cloud/DevOps Engineer. and I'm located in the San Francisco Bay Area in sunny California. Currently, I'm working as an Enterprise Sales Engineer for Sysdig. You can add me on <a href="https://www.linkedin.com/in/mathurinkasten/">LinkedIn.</a>
 
 Most of my work on GitHub is public so that you can see what I'm capable of. That, and, it works well with my personal Blog.
 
@@ -28,7 +28,7 @@ Most of my work on GitHub is public so that you can see what I'm capable of. Tha
 
 ----------------
 
-🔭 I’m currently working on custom hacks with my company Sysdig.
+🔭 I’m currently working on ways to secure Kubernetes environments both managed and self hosted.
 
 <!-- **mathurin186/mathurin186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

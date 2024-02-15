@@ -4,16 +4,19 @@
 
 I'm a previous Cloud/DevOps Engineer. and I'm located in the San Francisco Bay Area in sunny California. Currently, I'm working as an Enterprise Sales Engineer for Sysdig. You can add me on <a href="https://www.linkedin.com/in/mathurinkasten/">LinkedIn.</a>
 
-Most of my work on GitHub is public so that you can see what I'm capable of. That, and, it works well with my personal Blog.
+Most of my work on GitHub is public so that you can see what I'm capable of. That, and it works well with my personal Blog.
 
 
-### Things that I've acomplished 
+### Current Certifications
 - [x] Pass AWS Solutions Architect Associate
 - [x] Pass AWS SysOps Administrator
 - [x] Pass Kubernetes Certified Administrator
 - [x] Pass Kubernetes Certified Security Specialist (CKS) 
 - [x] Pass Hashicorp Terraform Associate
 - [x] Pass Slack Certified Developer
+
+### Current Projects
+🔭 I’m currently working on ways to Secure Kubernetes Clusters 
 
 ----------------
 

@@ -8,12 +8,12 @@ Most of my work on GitHub is public so that you can see what I'm capable of. Tha
 
 
 ### Current Certifications
-- [x] Pass AWS Solutions Architect Associate
-- [x] Pass AWS SysOps Administrator
-- [x] Pass Kubernetes Certified Administrator
-- [x] Pass Kubernetes Certified Security Specialist (CKS) 
-- [x] Pass Hashicorp Terraform Associate
-- [x] Pass Slack Certified Developer
+- [x] AWS Solutions Architect Associate
+- [x] AWS SysOps Administrator
+- [x] Kubernetes Certified Administrator
+- [x] Kubernetes Certified Security Specialist (CKS) 
+- [x] Hashicorp Terraform Associate
+- [x] Slack Certified Developer
 
 ### Current Projects
 🔭 I’m currently working on ways to Secure Kubernetes Clusters 

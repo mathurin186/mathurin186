@@ -11,7 +11,8 @@ Most of my work on GitHub is public so that you can see what I'm capable of. Tha
 - [x] AWS Solutions Architect Associate
 - [x] AWS SysOps Administrator
 - [x] Kubernetes Certified Administrator
-- [x] Kubernetes Certified Security Specialist (CKS) 
+- [x] Kubernetes Certified Security Specialist (CKS)
+- [x] Certified Kubernetes Application Developer (CKAD) 
 - [x] Hashicorp Terraform Associate
 - [x] Slack Certified Developer
 

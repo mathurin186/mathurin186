@@ -2,9 +2,9 @@
 
 ----------------
 
-I'm a previous Cloud/DevOps Engineer. and I'm located in the San Francisco Bay Area in sunny California. Currently, I'm working as a Solutions Engineer for Wiz. You can add me on <a href="https://www.linkedin.com/in/mathurinkasten/">LinkedIn.</a>
+I'm a previous Cloud/DevOps Engineer. and I'm located in the San Francisco Bay Area in sunny California. 
 
-Most of my work on GitHub is public so that you can see what I'm capable of. That, and it works well with my personal Blog.
+Most of my work on GitHub is public so that you can see what I'm capable of. 
 
 
 ### Current Certifications

@@ -9,7 +9,7 @@ Most of my work on GitHub is public so that you can see what I'm capable of.
 
 ### Current Certifications
 - [x] AWS Solutions Architect Associate
-- [x] AWS SysOps Administrator
+- [x] AWS CloudOps Engineer
 - [x] Kubernetes Certified Administrator (CKA)
 - [x] Kubernetes Certified Security Specialist (CKS)
 - [x] Certified Kubernetes Application Developer (CKAD) 
